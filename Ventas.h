@@ -1,26 +1,8 @@
  
 
-class Ventas 
- {
- 
+class Ventas {
+private:
+	int cantidad;
 
 
-
-	
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  };
